@@ -1,0 +1,57 @@
+baseURL: ""
+languageCode: en-us
+title: Jens Leemans
+theme: "PaperMod"
+
+params:
+  #ShowBreadCrumbs: False # Show path structure where you are on site
+  #ShowReadingTime: True # Show howlong it will take for you to read it
+  defaultTheme: dark # to switch between dark or light according to browser theme
+
+  assets:
+    favicon: "/logo/favicon.ico"
+    favicon16x16:  "/logo/favicon-16x16.png"
+    favicon32x32:  "/logo/favicon-32x32.png"
+    apple_touch_icon:  "/logo/apple-touch-icon.png"
+
+
+  profileMode:
+    enabled: True
+    title: "An investment in knowledge pays the best interest"
+    subtitle: Welcome to my personal blog! I'm so glad you stopped by. I hope you find something inspiring, thought-provoking, or just plain enjoyable while you're here. Thank you for visiting and taking the time to read my thoughts and musings. I hope you have a great experience and come back to visit again soon.
+    imageUrl: /logo/leemans_jens.png
+    imageTitle: "Jens Leemans"
+    imageWidth: 200
+    imageHeight: 200
+    buttons:
+      - name: Books
+        url: "/books"
+      - name: Posts
+        url: "/posts"    
+    
+  socialIcons: # optional
+    - name: "twitter"
+      url: "https://twitter.com/ufopiloot42"
+
+menu:
+  main:
+    - identifier: Home
+      name: Home
+      url: /
+      weight: 5
+    - identifier: Begin here
+      name: Begin here
+      url: posts/begin_here/
+      weight: 10
+    - identifier: Books
+      name: Books
+      url: /tags/Books i've read/
+      weight: 15
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 25
