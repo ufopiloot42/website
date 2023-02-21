@@ -4,8 +4,8 @@ title: Jens Leemans
 theme: "PaperMod"
 
 params:
-  #ShowBreadCrumbs: False # Show path structure where you are on site
-  #ShowReadingTime: True # Show howlong it will take for you to read it
+  #ShowBreadCrumbs: True # Show path structure where you are on site
+  ShowReadingTime: True # Show howlong it will take for you to read it
   defaultTheme: dark # to switch between dark or light according to browser theme
 
   assets:
