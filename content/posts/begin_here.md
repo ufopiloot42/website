@@ -3,7 +3,7 @@ title: "Begin Here"
 date: 2022-08-25T13:24:12+02:00
 draft: false
 cover:
-    image: /static/img/1.jpg
+    image: static/img/1.jpg
     alt: 'Image of two astronauts walking away on their path'
 tags: ["Begin here"]
 categories: ["Begin here"]
