@@ -4,7 +4,7 @@ date: 2022-11-02T12:58:13+01:00
 draft: false
 tags: ["Books i've read"]
 cover:
-    image: ../static/img/one-up-on-wall-street.jpg
+    image: ../../static/img/one-up-on-wall-street.jpg
     alt: 'Cover picture of One up on wall street by Peter Lynch'
 ---
 
