@@ -18,7 +18,7 @@ params:
   profileMode:
     enabled: True
     title: "An investment in knowledge pays the best interest"
-    subtitle: Welcome to my personal blog! I'm so glad you stopped by. I hope you find something inspiring, thought-provoking, or just plain enjoyable while you're here. Thank you for visiting and taking the time to read my thoughts and musings. I hope you have a great experience and come back to visit again soon.
+    subtitle: Welcome to my website! We like to keep things light, fun, and maybe even a little bit silly. So, kick off your shoes, grab a cup of coffee, and enjoy some lighthearted reading. Remember, don't take things too seriously - life is too short for that! Thanks for visiting, and I hope you have a great time exploring my site.
     imageUrl: /logo/leemans_jens.png
     imageTitle: "Jens Leemans"
     imageWidth: 200
