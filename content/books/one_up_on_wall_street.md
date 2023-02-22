@@ -8,8 +8,6 @@ cover:
     alt: 'Image of the movie matrix, showing us a red and a blue pill -a choice to make'
 ---
 
-![Alt text](/img/OneUpOnWallStreet.jpg)
-
 Loved reading it, the book outlines Lynch's investment philosophy and the strategies he used to achieve his remarkable succes as the manager of the Fidelity Magellan Fund.
 
 Lynch's approach to investing is grounded in common sense and encourages investors to think long-term and stay patient. He also emphasizes on the fact that the average retail investor has alot of natural advantages but they choose to ignore them.
