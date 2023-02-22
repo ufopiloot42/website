@@ -4,9 +4,11 @@ date: 2022-11-02T12:58:13+01:00
 draft: false
 tags: ["Books i've read"]
 cover:
-    image: img/OneUpOnWallStreet.jpg
-    alt: 'Cover picture of One up on wall street by Peter Lynch'
+    image: /img/OneUpOnWallStreet.jpg
+    alt: 'Image of the movie matrix, showing us a red and a blue pill -a choice to make'
 ---
+
+![Alt text](/img/OneUpOnWallStreet.jpg)
 
 Loved reading it, the book outlines Lynch's investment philosophy and the strategies he used to achieve his remarkable succes as the manager of the Fidelity Magellan Fund.
 
