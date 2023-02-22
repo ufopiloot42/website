@@ -5,7 +5,7 @@ draft: false
 cover:
     image: /img/1.jpg
     alt: 'Image of two astronauts walking away on their path'
-tags: ["#1 The Beginning"]
+tags: ["The Beginning"]
 categories: ["Begin here"]
 ---
 
