@@ -41,7 +41,7 @@ menu:
       weight: 5
     - identifier: Begin here
       name: Begin here
-      url: posts/begin_here/
+      url: /posts/begin_here/
       weight: 10
     - identifier: Books
       name: Books
