@@ -30,8 +30,6 @@ params:
         url: "/posts"    
     
   socialIcons: # optional
-    - name: "twitter"
-      url: "https://twitter.com/ufopiloot42"
     - name: "github"
       url: "https://github.com/ufopiloot42/website"
 menu:
