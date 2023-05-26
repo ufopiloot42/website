@@ -29,7 +29,7 @@ If you take one typewriter and build 100, you have made **horizontal progress**.
 
 >Brilliant thinking is rare, but courage is in even shorter supply than genius.
 
->1. It is better to risk boldness that triviality.
+>1. It is better to risk boldness than triviality.
 >2. A bad plan is better than no plan.
 >3. Competitive markets destroy profits.
 >4. Sales matters just as much as products.
